@@ -32,10 +32,10 @@ No es necesario crear las colecciones manualmente; MongoDB las creará al insert
 ### 3. Insertar Datos de Prueba
 
 - Genera e inserta:
-  - 50 documentos en `customers`
-  - 200 documentos en `products`
-  - 500 documentos en `orders`
-  - 500 documentos en `shipments`
+  - N documentos en `customers`
+  - N documentos en `products`
+  - N documentos en `orders`
+  - N documentos en `shipments`
 
 **Ejemplo de inserción:**
 
